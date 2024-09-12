@@ -5,3 +5,5 @@ chromadb
 streamlit
 GitPython
 python-dotenv
+
+-e .
