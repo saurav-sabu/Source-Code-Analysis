@@ -5,5 +5,8 @@ chromadb
 streamlit
 GitPython
 python-dotenv
+ipykernel
+langchain-community
+langchain-openai
 
 -e .
